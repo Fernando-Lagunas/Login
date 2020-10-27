@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">Login</string>
+
+    <string name="btn1">ENTRAR</string>
+
+    <string name="loginLabel">LOGIN</string>
+
+    <string name="Empresa">Empresa</string>
+
+    <string name="Usuario">Usuario</string>
+
+    <string name="Contraseña">Contraseña</string>
+
+    <string name="labelContraseña">¿Olvidaste tu contraseña?</string>
+
+
+
+
 </resources>
